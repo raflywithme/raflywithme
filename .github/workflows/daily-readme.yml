@@ -1,0 +1,55 @@
+name: Update Daily Quotes for README
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get random quote and update README
+        run: |
+          Response=$(curl -s https://dummyjson.com/quotes/random)
+          Quote=$(echo "$Response" | jq -r '.quote // empty')
+          Author=$(echo "$Response" | jq -r '.author // empty')
+
+          if [ -z "$Quote" ]; then
+            Quote="Samsul arif kejar dia"
+            Author="Bensin habis"
+          fi
+
+          Today=$(date +"%d %B %Y")
+
+          NewSection=$(cat <<EOF
+          <!--Start:quote-->
+
+          **${Today}**
+
+          > ${Quote}
+          > - *${Author}*
+
+          <!--End:quote-->
+          EOF
+          )
+
+          awk -v new="$NewSection" '
+            /<!--Start:quote-->/ {print new; skip=1; next}
+            /<!--End:quote-->/ {skip=0; next}
+            skip {next}
+            {print}
+          ' README.md > README.tmp && mv README.tmp README.md
+
+      - name: Push
+        run: |
+          git config user.name "daily-quotes"
+          git config user.email "daily-quotes@apacoba.com"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update daily README"
+          git push
