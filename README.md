@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**18 July 2026**
+**19 July 2026**
 
-> Get up sucker and fight. Get up and fight.
-> - *Muhammad Ali*
+> The Time Is Always Right To Do What Is Right.
+> - *Martin Luther King  Jr.*
 
 <!--End:quote-->
