@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**19 July 2026**
+**20 July 2026**
 
-> The Time Is Always Right To Do What Is Right.
-> - *Martin Luther King  Jr.*
+> A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On.
+> - *Winston Churchill*
 
 <!--End:quote-->
