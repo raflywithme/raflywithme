@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**20 July 2026**
+**21 July 2026**
 
-> A Lie Gets Halfway Around The World Before The Truth Has A Chance To Get Its Pants On.
-> - *Winston Churchill*
+> I Know Of Only One Duty, And That Is To Love.
+> - *Albert Camus*
 
 <!--End:quote-->
