@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**23 July 2026**
+**24 July 2026**
 
-> It Is Better To Remain Silent And Be Thought A Fool Than To Open One'S Mouth And Remove All Doubt.
-> - *Abraham Lincoln*
+> Try not to resist the changes that come your way. Instead let life live through you. And do not worry that your life is turning upside down. How do you know that the side you are used to is better than the one to come?
+> - *Rumi*
 
 <!--End:quote-->
