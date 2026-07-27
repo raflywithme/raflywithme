@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**26 July 2026**
+**27 July 2026**
 
-> People are of two types, they are either your brothers in faith or your equals in humanity.
-> - *Ali ibn Abi Talib (R.A)*
+> Don'T Tell Fish Stories Where The People Know You; But Particularly, Don'T Tell Them Where They Know The Fish.
+> - *Mark Twain*
 
 <!--End:quote-->
