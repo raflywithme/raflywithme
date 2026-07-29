@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**28 July 2026**
+**29 July 2026**
 
-> Wherever you stand, be the soul of that place.
-> - *Rumi*
+> The death of a thousand worshipers is easier to bear than the death of a scholar who has knowledge of what Allah has permitted and forbidden.
+> - *Umar ibn Al-Khattāb (R.A)*
 
 <!--End:quote-->
