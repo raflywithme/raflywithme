@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**29 July 2026**
+**30 July 2026**
 
-> The death of a thousand worshipers is easier to bear than the death of a scholar who has knowledge of what Allah has permitted and forbidden.
-> - *Umar ibn Al-Khattāb (R.A)*
+> A hopeless man sees difficulties in every chance, but a hopeful person sees chances in every difficulty.
+> - *Ali ibn Abi Talib (R.A)*
 
 <!--End:quote-->
