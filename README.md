@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**31 July 2026**
+**01 August 2026**
 
-> Sell your cleverness and buy bewilderment. Cleverness is mere opinion. Bewilderment brings intuitive knowledge.
-> - *Rumi*
+> I Am The Astronaut Of Boxing. Joe Louis And Dempsey Were Just Jet Pilots. I'M In A World Of My Own.
+> - *Muhammad Ali*
 
 <!--End:quote-->
