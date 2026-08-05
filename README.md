@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**04 August 2026**
+**05 August 2026**
 
-> Do not overeat; that invites disease.
-> - *Umar ibn Al-Khattāb (R.A)*
+> We will be remembered only if we give to our younger generation a prosperous and safe India, resulting out of economic prosperity coupled with civilizational heritage.
+> - *Abdul Kalam*
 
 <!--End:quote-->
