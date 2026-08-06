@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**05 August 2026**
+**06 August 2026**
 
-> We will be remembered only if we give to our younger generation a prosperous and safe India, resulting out of economic prosperity coupled with civilizational heritage.
-> - *Abdul Kalam*
+> Only last week I murdered a rock, injured a stone and hospitalized a brick.
+> - *Muhammad Ali*
 
 <!--End:quote-->
