@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**09 August 2026**
+**10 August 2026**
 
-> Sometimes the people with the worst past, create the best future.
-> - *Umar ibn Al-Khattāb (R.A)*
+> Be afraid of a dignified man when he is hungry and a wicked man when his belly is full.
+> - *Ali ibn Abi Talib (R.A)*
 
 <!--End:quote-->
