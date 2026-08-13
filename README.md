@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**12 August 2026**
+**13 August 2026**
 
-> Boys, You Must Strive To Find Your Own Voice, Because The Longer You Wait To Begin The Less Likely You Are To Find It At All.
-> - *Robin Williams*
+> God Writes The Gospel Not In The Bible Alone, But Also On Trees, And In The Flowers And Clouds And Stars.
+> - *Martin Luther*
 
 <!--End:quote-->
