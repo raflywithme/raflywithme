@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**13 August 2026**
+**14 August 2026**
 
-> God Writes The Gospel Not In The Bible Alone, But Also On Trees, And In The Flowers And Clouds And Stars.
-> - *Martin Luther*
+> What Do I Wear In Bed? Why, Chanel No. 5, Of Course.
+> - *Marilyn Monroe*
 
 <!--End:quote-->
