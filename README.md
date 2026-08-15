@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**14 August 2026**
+**15 August 2026**
 
-> What Do I Wear In Bed? Why, Chanel No. 5, Of Course.
-> - *Marilyn Monroe*
+> If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up.
+> - *Hunter S. Thompson*
 
 <!--End:quote-->
