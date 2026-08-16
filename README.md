@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**15 August 2026**
+**16 August 2026**
 
-> If You'Re Going To Be Crazy, You Have To Get Paid For It Or Else You'Re Going To Be Locked Up.
-> - *Hunter S. Thompson*
+> This Is The First Convention Of The Space Age - Where A Candidate Can Promise The Moon And Mean It.
+> - *David Brinkley*
 
 <!--End:quote-->
