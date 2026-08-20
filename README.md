@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**19 August 2026**
+**20 August 2026**
 
-> Thinking is progress. Non-thinking is stagnation of the individual, organization and the country. Thinking leads to action. Knowledge without action is useless and irrelevant. Knowledge with action, converts adversity into prosperity.
+> Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person.
 > - *Abdul Kalam*
 
 <!--End:quote-->
