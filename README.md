@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**20 August 2026**
+**21 August 2026**
 
-> Confidence and hard work is the best medicine to kill the disease called failure. It will make you successful person.
-> - *Abdul Kalam*
+> To fight against the infidels is Jihad; but to fight against your evil self is greater Jihad.
+> - *Abu Bakr (R.A)*
 
 <!--End:quote-->
