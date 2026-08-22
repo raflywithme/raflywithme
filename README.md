@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**21 August 2026**
+**22 August 2026**
 
-> To fight against the infidels is Jihad; but to fight against your evil self is greater Jihad.
-> - *Abu Bakr (R.A)*
+> Microsoft Is Not About Greed. It'S About Innovation And Fairness.
+> - *Bill Gates*
 
 <!--End:quote-->
