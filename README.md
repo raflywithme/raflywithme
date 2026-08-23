@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**22 August 2026**
+**23 August 2026**
 
-> Microsoft Is Not About Greed. It'S About Innovation And Fairness.
-> - *Bill Gates*
+> I Am The Literary Equivalent Of A Big Mac And Fries.
+> - *Stephen King*
 
 <!--End:quote-->
