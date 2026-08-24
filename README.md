@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**23 August 2026**
+**24 August 2026**
 
-> I Am The Literary Equivalent Of A Big Mac And Fries.
-> - *Stephen King*
+> Wars Of Nations Are Fought To Change Maps. But Wars Of Poverty Are Fought To Map Change.
+> - *Muhammad Ali*
 
 <!--End:quote-->
