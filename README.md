@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**24 August 2026**
+**25 August 2026**
 
-> Wars Of Nations Are Fought To Change Maps. But Wars Of Poverty Are Fought To Map Change.
-> - *Muhammad Ali*
+> Purify your eyes, and see the pure world. Your life will fill with radiant forms.
+> - *Rumi*
 
 <!--End:quote-->
