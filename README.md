@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**25 August 2026**
+**26 August 2026**
 
-> Purify your eyes, and see the pure world. Your life will fill with radiant forms.
-> - *Rumi*
+> The Secret Of Getting Ahead Is Getting Started
+> - *Mark Twain*
 
 <!--End:quote-->
