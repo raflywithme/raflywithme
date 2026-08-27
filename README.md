@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**26 August 2026**
+**27 August 2026**
 
-> The Secret Of Getting Ahead Is Getting Started
-> - *Mark Twain*
+> Set your life on fire. Seek those who fan your flames.
+> - *Rumi*
 
 <!--End:quote-->
