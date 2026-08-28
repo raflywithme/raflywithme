@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**27 August 2026**
+**28 August 2026**
 
-> Set your life on fire. Seek those who fan your flames.
-> - *Rumi*
+> No amount of worrying can change the future. Go easy on yourself, for the outcome of all affairs is determined by God's decree. If something is meant to go elsewhere, it will never come your way, but if it is yours by destiny, from you it cannot flee.
+> - *Umar ibn Al-Khattāb (R.A)*
 
 <!--End:quote-->
