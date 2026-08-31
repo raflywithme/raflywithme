@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**30 August 2026**
+**31 August 2026**
 
-> Failure Is Not The Opposite Of Success; It'S Part Of Success.
-> - *Arianna Huffington*
+> Light up the fire of love inside and blaze the thoughts away.
+> - *Rumi*
 
 <!--End:quote-->
