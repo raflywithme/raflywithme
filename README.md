@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**31 August 2026**
+**01 September 2026**
 
-> Light up the fire of love inside and blaze the thoughts away.
-> - *Rumi*
+> Three Can Keep A Secret, If Two Of Them Are Dead.
+> - *Benjamin Franklin*
 
 <!--End:quote-->
