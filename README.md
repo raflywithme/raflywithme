@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**01 September 2026**
+**02 September 2026**
 
-> Three Can Keep A Secret, If Two Of Them Are Dead.
-> - *Benjamin Franklin*
+> Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose.
+> - *Bill Gates*
 
 <!--End:quote-->
