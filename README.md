@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**02 September 2026**
+**03 September 2026**
 
-> Success Is A Lousy Teacher. It Seduces Smart People Into Thinking They Can'T Lose.
-> - *Bill Gates*
+> I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody.
+> - *Bill Cosby*
 
 <!--End:quote-->
