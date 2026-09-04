@@ -1,8 +1,8 @@
 <!--Start:quote-->
 
-**03 September 2026**
+**04 September 2026**
 
-> I Don'T Know The Key To Success, But The Key To Failure Is Trying To Please Everybody.
-> - *Bill Cosby*
+> We need to create brand institutions. In the fortune 500 companies, 5 Indian companies are named while 15 are from China though we have similar kind of populations.
+> - *Abdul Kalam*
 
 <!--End:quote-->
